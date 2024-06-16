@@ -1,6 +1,6 @@
 # SITEMATE CRUD APP
 
-[![Click to watch the video](https://www.example.com/your-video-thumbnail.png)](https://www.example.com/your-video-url.mp4)
+[![Click to watch the video](https://www.example.com/your-video-thumbnail.png)](https://www.loom.com/share/88d0fdc307e34519b8a5f080ac4249e5)
 
 ## Getting Started
 
